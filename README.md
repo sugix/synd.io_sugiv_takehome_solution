@@ -28,7 +28,7 @@ sudo apt install python3-poetry
 > Run all the below from the root of the project
 
 - I have also checked in the poetry.lock file which helps you to run with right set of dependencies. You can either install dependencies as a first step and run or directly run the below commands. 
-- If you like to save time and finish installing dependencies in poetry virtual environment, then please go ahead and run
+- Please go ahead and run following to install the dependencies as a first step. 
 
 ```sh
 poetry install
