@@ -4,7 +4,7 @@
 - The csv file espcially for Company B contains data mis-aligned and also wrong values for gender columns, some other data-type based errors which is not fixed yet
 - No test-cases are written and code is not commented to the extent I comment in production ready code. 
 - The code is not production ready and it is only to show-case sample of coding style. 
-- Data model is not efficient for reading and analytics, however, I didn't proceed to denormalize again to answer analytical questions using the computational framework I have chosen which is [Polars] (https://pola-rs.github.io/polars-book/user-guide/quickstart/intro.html)
+- Data model is not efficient for reading and analytics, however, I didn't proceed to use the denormalized data as it is, to answer analytical questions using the computational framework I have chosen which is [Polars] (https://pola-rs.github.io/polars-book/user-guide/quickstart/intro.html)
 - Code is not yet black formatted. 
 
 # Solution Approach
